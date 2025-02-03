@@ -11,25 +11,11 @@ AutoCodeGuard is an automated testing platform for evaluating coding solutions s
 - ☁ **GitHub Deployment Support**: Submissions must be pushed to GitHub for evaluation.
 - 💾 **MongoDB Integration**: Stores user submissions and results.
 
-## 📂 Folder Structure
-```
-📦 AutoCodeGuard
- ┣ 📂 src
- ┃ ┣ 📂 linters  # Custom linters and rules
- ┃ ┣ 📂 tests    # Test cases for submissions
- ┃ ┗ main.py     # Core evaluation logic
- ┣ 📂 submissions # Stores user code submissions
- ┣ 📜 .pylintrc  # Custom Python linting rules
- ┣ 📜 .eslintrc.json  # Custom JavaScript linting rules
- ┣ 📜 pre-commit-config.yaml  # Pre-commit hooks for formatting checks
- ┣ 📜 README.md  # Project documentation
- ┗ 📜 requirements.txt  # Python dependencies
-```
 
 ## 🔧 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/AutoCodeGuard.git
+git clone https://github.com/daanishmittal24/AutoCodeGuard.git
 cd AutoCodeGuard
 ```
 
