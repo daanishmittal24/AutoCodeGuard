@@ -32,7 +32,7 @@ def check_tool_availability(tool_name):
         return False
 
 def analyze_repo(repo_url, status_callback, log_callback):
-    results = {"Python": [], "JavaScript": [], "HTML": [], "CSS": [], "Java": []}
+    results = {"Python": [], "HTML": [], "CSS": [], "JavaScript": [], "Java": []}
 
     # Clone repo to temp directory
     temp_dir = tempfile.mkdtemp()
@@ -261,15 +261,6 @@ module.exports = {
 # =============================================
 # Enhanced Streamlit UI Components
 # =============================================
-
-
-
-
-
-
-
-
-
 
 # Page Configuration
 st.set_page_config(
