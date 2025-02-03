@@ -3,6 +3,12 @@
 ## 🎯 Project Overview
 AutoCodeGuard is an automated testing platform for evaluating coding solutions submitted. It verifies coding guidelines, checks performance, and provides structured feedback.
 
+![Screenshot from 2025-02-03 21-59-41](https://github.com/user-attachments/assets/bda43f93-1571-43b5-a575-f56cd11d1c1a)
+
+![Screenshot from 2025-02-03 17-36-26](https://github.com/user-attachments/assets/2fb0ca69-d7bc-4b04-ad58-01f20d16a166)
+
+
+
 ## 📌 Features
 - 🛠 **Automated Code Verification**: Checks for adherence to predefined coding guidelines.
 - ⚡ **Performance Evaluation**: Measures efficiency and execution time.
