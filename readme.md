@@ -1,4 +1,4 @@
-# 🚀 AutoCodeGuard - Automated Custom Code Testing for Hackathons
+# 🚀 AutoCodeGuard - Automated Custom Code Testing
 
 ## 🎯 Project Overview
 AutoCodeGuard is an automated testing platform for evaluating coding solutions submitted. It verifies coding guidelines, checks performance, and provides structured feedback.
