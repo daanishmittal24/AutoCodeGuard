@@ -86,9 +86,9 @@ max-line-length=100
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 👨‍💻 Contributors
+<!-- ## 👨‍💻 Contributors
 - **[Your Name]** - Project Lead
-- **[Other Contributors]**
+- **[Other Contributors]** -->
 
 ---
 ⚡ **AutoCodeGuard** - Ensuring Quality Code, Every Submission!
