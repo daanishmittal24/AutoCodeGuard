@@ -386,11 +386,13 @@ with main_col:
         total_logs = len(st.session_state.logs)
         st.markdown(f"<div class='metric-box'><b>Total Logs</b><br>{total_logs} entries</div>", 
                     unsafe_allow_html=True)
-    with status_col3:
-        progress_bar = st.progress(0)
+
     with status_col4:
         st.markdown(f"<div class='metric-box'><b>LLM Review</b><br>Not started</div>", 
-                    unsafe_allow_html=True)
+                    unsafe_allow_html=True) 
+    with status_col3:
+        progress_bar = st.progress(0)
+
 
     # Live Logs Display
     with st.expander("📝 Live Analysis Logs", expanded=True):
