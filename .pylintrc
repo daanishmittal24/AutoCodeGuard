@@ -1,0 +1,9 @@
+[BASIC]
+# Naming style for function names
+function-naming-style=camelCase
+
+# Naming style for variable names
+variable-naming-style=camelCase
+
+# Naming style for class names
+class-naming-style=PascalCase

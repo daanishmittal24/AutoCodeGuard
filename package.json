@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/eslint-parser": "^7.26.5",
+    "@babel/preset-env": "^7.26.7",
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^15.14.0",
+    "htmlhint": "^1.1.4",
+    "typescript-eslint": "^8.22.0"
+  },
+  "dependencies": {
+    "stylelint": "^16.14.1"
+  }
+}

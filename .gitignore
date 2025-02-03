@@ -1,0 +1,39 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+env/
+myenv/
+
+# Ignore node modules
+node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore Streamlit and compiled files
+.streamlit/
+.mypy_cache/
+.pytest_cache/
+
+# Ignore uploaded rule files (optional)
+uploaded_rules/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+
+# Ignore GitHub workflows cache (if any)
+.github/workflows/
+
+# Ignore dataset files (if any)
+data/
