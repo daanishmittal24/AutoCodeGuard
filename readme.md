@@ -1,7 +1,7 @@
 # 🚀 AutoCodeGuard - Automated Custom Code Testing for Hackathons
 
 ## 🎯 Project Overview
-AutoCodeGuard is an automated testing platform for evaluating coding solutions submitted in hackathons. It verifies coding guidelines, checks performance, and provides structured feedback to participants. No Docker is required for execution.
+AutoCodeGuard is an automated testing platform for evaluating coding solutions submitted. It verifies coding guidelines, checks performance, and provides structured feedback.
 
 ## 📌 Features
 - 🛠 **Automated Code Verification**: Checks for adherence to predefined coding guidelines.
