@@ -88,10 +88,10 @@ max-line-length=100
 - ✅ Add support for more programming languages.
 - 🔗 Integrate with GitHub Actions for CI/CD.
 - 🏆 Leaderboard system for ranking participants.
-
+```
 ## 📄 License
 This project is licensed under the MIT License.
-
+```
 <!-- ## 👨‍💻 Contributors
 - **[Your Name]** - Project Lead
 - **[Other Contributors]** -->
